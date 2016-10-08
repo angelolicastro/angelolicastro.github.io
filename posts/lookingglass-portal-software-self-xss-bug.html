@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta content="ie=edge" http-equiv="x-ua-compatible">
+	<meta content="initial-scale=1, width=device-width" name="viewport">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans" rel="stylesheet">
+	<link href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
+	<link href="../assets/css/www-angelolicastro-com.css" rel="stylesheet">
+	<title>LookingGlass Portal Software Self-XSS Bug &middot; www.angelolicastro.com</title>
+</head>
+<body>
+	<h1><a href="/">Angelo Licastro</a> <span id="tagline">is a JavaScript fanatic</span>.</h1>
+	<h2>LookingGlass Portal Software Self-XSS Bug</h2>
+	<p><a href="https://cathyjf.com">Cathy Fitzpatrick</a> and I discovered a self-cross-site scripting (self-XSS) bug that affects the <a href="https://canisius.edu">Canisius College</a> <a href="https://my.canisius.edu">portal</a>, which is powered by the <a href="https://lookingglassplatform.com">LookingGlass</a> portal software. This bug affects a small number of users in a specific scenario. We realize that self-XSS bugs are not necessarily vulnerabilities by themselves, but they may lead to attacks in specific scenarios.</p>
+	<h3>Scenario</h3>
+	<p>It is not uncommon that an institution, such as Canisius, creates accounts that multiple people can access. For example, at Canisius, student organizations are created shared accounts and, every person who needs to access the services that these shared accounts provide, such as Gmail, are given the shared password. A rogue member of a student organization may compromise the shared account by exploiting the self-XSS bug to, for example, present a fake login page that prompts a user for their personal account credentials to continue.</p>
+	<h3>Bug</h3>
+	<p>The LookingGlass portal software provides a feature that allows users to add their own favorite links to the Navigation portlet.</p>
+	<p><img alt="Navigation portlet" src="../assets/img/posts/lookingglass-portal-software-self-xss-bug/navigation-portlet.png"></p>
+	<p>The user can add a favorite with any name and URL combination. The name and URL may include HTML, which is not properly sanitized.</p>
+	<p><img alt="Add dialog" src="../assets/img/posts/lookingglass-portal-software-self-xss-bug/add-dialog.png"></p>
+	<p>When a favorite is added, the name and URL of each favorite is rendered.</p>
+	<p><img alt="Alert dialog" src="../assets/img/posts/lookingglass-portal-software-self-xss-bug/alert-dialog.png"></p>
+	<p>The name and URL of each favorite persists indefinitely.</p>
+	<p><img alt="Favorites dialog" src="../assets/img/posts/lookingglass-portal-software-self-xss-bug/favorites-dialog.png"></p>
+	<p>The following is how the favorite is rendered.</p>
+	<p><code>&lt;script type="text/javascript"&gt;/*&lt;![CDATA[*/alert(1);/*]]&gt;*/&lt;/script&gt;</code></p>
+	<div id="footer">
+		<div class="row">
+			<div class="column-1-3">
+				<p><a href="mailto:angelo@angelolicastro.com"><i class="icon ion-email"></i></a></p>
+			</div>
+			<div class="column-1-3">
+				<p><a href="https://github.com/angelolicastro"><i class="icon ion-social-github"></i></a></p>
+			</div>
+			<div class="column-1-3">
+				<p><a href="https://www.linkedin.com/in/angelolicastro"><i class="icon ion-social-linkedin"></i></a></p>
+			</div>
+		</div>
+	</div>
+	<script src="../assets/js/taglines.js"></script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-38770133-4', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+</body>
+</html>
