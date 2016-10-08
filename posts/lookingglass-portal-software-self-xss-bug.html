@@ -25,7 +25,7 @@
 	<p>The name and URL of each favorite persists indefinitely.</p>
 	<p><img alt="Favorites dialog" src="../assets/img/posts/lookingglass-portal-software-self-xss-bug/favorites-dialog.png"></p>
 	<p>The following is how the favorite is rendered.</p>
-	<p><code>&lt;script type="text/javascript"&gt;/*&lt;![CDATA[*/alert(1);/*]]&gt;*/&lt;/script&gt;</code></p>
+	<p><code>&lt;script type="text/javascript"&gt;/*&lt;![CDATA[*/alert('Hello, world!');/*]]&gt;*/&lt;/script&gt;</code></p>
 	<div id="footer">
 		<div class="row">
 			<div class="column-1-3">
