@@ -85,6 +85,10 @@ input {
     padding: 5px;
 }
 
+input::placeholder {
+    color: #2b361b;
+}
+
 table {
     overflow-y: auto;
     display: block;
