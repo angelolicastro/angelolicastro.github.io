@@ -1,0 +1,135 @@
+body {
+    background-color: #2b361b;
+    color: #b4bfa4;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a, a:link {
+    color: #c8f28a;
+    text-decoration: none;
+}
+
+a:active, a:hover, a:visited {
+    color: #a6c478;
+}
+
+#map {
+    border-radius: 12px;
+    height: 500px;
+    width: 100%;
+}
+
+.icon-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+}
+
+.memorial-icon, .dedication-icon, .bench-icon, .garden-icon {
+    color: #2b361b;
+}
+
+.marker-text {
+    font-size: 30px;
+    line-height: 0;
+}
+
+.leaflet-popup-content-wrapper {
+    background-color: #2b361b;
+    color: #b4bfa4;
+}
+
+.leaflet-popup-content {
+    text-align: center;
+}
+
+#in-memoriam-of, #to-honor {
+    font-weight: bold;
+}
+
+.plaque-inscription {
+    font-style: italic;
+}
+
+.plaque-image {
+    border-radius: 12px;
+    height: inherit;
+    width: inherit;
+    margin-top: 10px;
+}
+
+.plaque-image-table {
+    border-radius: 12px;
+    max-height: 100%;
+    max-width: 100%;
+    height: inherit;
+    width: inherit;
+}
+
+#memorials-filter, #dedications-filter {
+    width: calc(100% - 5px - 2px);
+}
+
+input {
+    background-color: #b4bfa4;
+    border: none;
+    border-radius: 2px;
+    color: #2b361b;
+    display: inline-block;
+    height: 25px;
+    padding: 5px;
+}
+
+table {
+    overflow-y: auto;
+    display: block;
+    margin-top: 10px;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+thead {
+    border-bottom: 1px solid #b4bfa4;
+}
+
+th {
+    text-align: center;
+    vertical-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #273018;
+}
+
+tbody tr:hover {
+    background-color: #b4bfa4;
+    color: #2b361b;
+}
+
+tbody tr:hover a {
+    color: #2b361b;
+    text-decoration: underline;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    vertical-align: center;
+}
+
+#challenge-answer {
+    width: 25px;
+}
+
+#email-address {
+    border: 1px solid;
+    border-radius: 6px;
+    display: inline-block;
+    padding: 10px;
+    margin: 3px;
+}

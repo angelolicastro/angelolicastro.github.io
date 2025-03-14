@@ -1,0 +1,1172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02155,
+                    43.1029
+                ]
+            },
+            "properties": {
+                "type": "Dedication",
+                "To Honor": "Grandmotherhood",
+                "Plaque Inscription": "TO HONOR GRANDMOTHERHOOD\nDONATED BY\nNIAGARA GRANDMOTHERS' CLUB\nOF\nNIAGARA FALLS, N.Y.\nOCT. 21, 1941",
+                "Image": "data/images/dedications/grandmotherhood.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02271,
+                    43.09823
+                ]
+            },
+            "properties": {
+                "type": "Dedication",
+                "To Honor": "George Washington",
+                "Plaque Inscription": "GEORGE WASHINGTON\nELM\nPLANTED BY\nNIAGARA FALLS CHAPTER\nD.A.R.\nJUNE 1932",
+                "Image": "data/images/dedications/george-washington.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0228,
+                    43.09803
+                ]
+            },
+            "properties": {
+                "type": "Dedication",
+                "To Honor": "US Constitution Sesquicentennial",
+                "Plaque Inscription": "THIS TREE DEDICATED\nAS A LIVING MEMORIAL OF\nTHE 150TH ANNIVERSARY\nOF THE FORMATION OF THE\nUNITED STATES CONSTITUTION\nNIAGARA SOCIETY C.A.R.\n1787-9 1938",
+                "Image": "data/images/dedications/us-constitution-sesquicentennial.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02292,
+                    43.09797
+                ]
+            },
+            "properties": {
+                "type": "Dedication",
+                "To Honor": "Grandchildren Sydney and Zachary",
+                "Plaque Inscription": "DEDICATED TO OUR GRANDCHILDREN\nSYDNEY AND ZACHARY\nIN THE YEAR 2000\nBILL AND MARYANN YOUNG",
+                "Image": "data/images/dedications/grandchildren-sydney-and-zachary.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02322,
+                    43.09808
+                ]
+            },
+            "properties": {
+                "type": "Dedication",
+                "To Honor": "Grandchildren John, Benjamin, Liam, and Samantha Marie",
+                "Plaque Inscription": "DEDICATED TO OUR GRANDCHILDREN\nIN THE YEAR 2000\nJOHN - BENJAMIN - LIAM\nSAMANTHA MARIE\nWILLIAM AND MARYANN YOUNG",
+                "Image": "data/images/dedications/grandchildren.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0227,
+                    43.09853
+                ]
+            },
+            "properties": {
+                "type": "Dedication",
+                "To Honor": "Unknown",
+                "Plaque Inscription": "Unknown",
+                "Image": "data/images/dedications/unknown.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02237,
+                    43.10352
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Richard E. Orel",
+                "Plaque Inscription Text": "Richard E. Orel\nLoving Dad, Poppy and Friend\n6/19/1965 - 2/3/2014\nLoving you always",
+                "Plaque Inscription Others": "Two hockey sticks crossed",
+                "Image": "data/images/memorials/richard-e-orel.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02248,
+                    43.10351
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Isabella Tennant",
+                "Plaque Inscription Text": "In Loving Memory Of\nIsabella Tennant\nMay This Tree And Its Growth\nBe A Symbol Of Her Love\nAnd Spirit.",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/isabella-tennant.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02255,
+                    43.10348
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Maureen J. Dunlap",
+                "Plaque Inscription Text": "Beloved and in Our ♥ 4 ever\nDaughter, Sister, Mother, Aunt\nand Grandmother\nPS Petite Mama XOXO\nMaureen J. Dunlap\n12/21/42 - 11/3/20",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/maureen-j-dunlap.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02266,
+                    43.10342
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Charles Mixon",
+                "Plaque Inscription Text": "IN LOVING MEMORY OF\nCHARLES MIXON\nWHO WILL LIVE ON\nIN OUR HEARTS AND MEMORIES",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/charles-mixon.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02276,
+                    43.10337
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Savilla and Frank Kress",
+                "Plaque Inscription Text": "ENJOY THE MUSIC\nHONORING\nSAVILLA AND FRANK KRESS",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/savilla-and-frank-kress.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02305,
+                    43.10105
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Steve DePalma",
+                "Plaque Inscription Text": "IN MEMORY OF\nSTEVE DEPALMA\n\"PAPA FOZZIE\"",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/steve-depalma.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02304,
+                    43.10095
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Harold Aloian",
+                "Plaque Inscription Text": "In Loving Memory of\nHAROLD ALOIAN",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/harold-aloian.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02273,
+                    43.09951
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Deborah Tjaden",
+                "Plaque Inscription Text": "IN MEMORY OF\nOUR DEAR FRIEND\nDEBORAH TJADEN\n1955 - 2012",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/deborah-tjaden.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02217,
+                    43.0991
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Andrew J. Halliday",
+                "Plaque Inscription Text": "Andrew J. Halliday\nSSGT US Army\n\"Courage is almost a contradiction\nin terms. It means a strong desire\nto live taking the form of\nreadiness to die.\"",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/andrew-j-halliday.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02178,
+                    43.09889
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Charlie Fratello",
+                "Plaque Inscription Text": "\"MY GRANDFATHER PLANTED TREES\"\nIN MEMORY OF\nCHARLIE FRATELLO\n1901 - 1998\nBELOVED FATHER AND GRANDFATHER",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/charlie-fratello.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02187,
+                    43.09882
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Cyjear Betton",
+                "Plaque Inscription Text": "Loving Father\nCYJEAR \"TSUAP\" BETTON\n11/1/97 - 5/2/22",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/cyjear-betton.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0218,
+                    43.09873
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Pamela M. Onesi",
+                "Plaque Inscription Text": "Planted In Loving Memory\nPamela M. Onesi\n1952 - 2022\nMay your loving and kind spirit be\nforever in our hearts\nLove, your family and friends",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/pamela-m-onesi.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02176,
+                    43.09861
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Shirley DiFranco Jones Monaco",
+                "Plaque Inscription Text": "SHIRLEY DI FRANCO JONES MONACO\n1/11/1936 - 9/28/2006\nHER SMILE REMAINS INDELIBLE IN OUR MEMORY\nWITH LOVE,\nLORRAINE & DICK PEALER\nDAWN & JIM MARASCO",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/shirley-difranco-jones-monaco.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02233,
+                    43.09873
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Mary Vitello",
+                "Plaque Inscription Text": "IN MEMORY OF\nMARY VITELLO\nFOREVER MISSED BY\nYOUR BOCCE TEAM\n\"WE'LL TAKE GREEN\"",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/mary-vitello.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02286,
+                    43.09821
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Bryan Kashishian",
+                "Plaque Inscription Text": "May this bench give\nRest to the body\nPeace to the mind and\nLove to the heart\nIn Loving Memory of\nBRYAN KASHISHIAN\n1988 - 2020",
+                "Plaque Inscription Others": "A motocross bike.\nNote: Bryan's memorial is a bench.",
+                "Image": "data/images/memorials/bryan-kashishian.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02264,
+                    43.09835
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "George Washington",
+                "Plaque Inscription Text": "IN MEMORY OF\nGEORGE WASHINGTON\n1732 - 1799\nTHIS TREE IS PLANTED BY\nNIAGARA SOCIETY C.A.R.\nIN THE BICENTENNIAL YEAR OF HIS BIRTH\n1932",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/george-washington.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02275,
+                    43.09812
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Michael Serianni",
+                "Plaque Inscription Text": "IN MEMORY OF\nMICHAEL SERIANNI",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/michael-serianni.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02193,
+                    43.09685
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Donald Michael Hickey",
+                "Plaque Inscription Text": "In Loving Memory of\nDonald Michael Hickey\n1950 - 2015",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/donald-michael-hickey.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02189,
+                    43.09704
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Jessica Lynn Sedore",
+                "Plaque Inscription Text": "IN LOVING MEMORY\nOF OUR DAUGHTER\nJESSICA LYNN SEDORE\nFOREVER IN OUR HEARTS\n1985 - 2020\nMOM & DAD",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/jessica-lynn-sedore.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0218,
+                    43.09717
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Dale F. Shank",
+                "Plaque Inscription Text": "IN MEMORY OF\nDALE F. SHANK\n1922 - 2001\n\"WE CAN JUDGE THE HEART OF A MAN\nBY THE TREATMENT OF HIS DOG\"\nFROM YOUR LOVING FAMILY AND \"JAKE\"",
+                "Plaque Inscription Others": "A dog",
+                "Image": "data/images/memorials/dale-f-shank.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02164,
+                    43.09738
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "James R. Serianni",
+                "Plaque Inscription Text": "A NEW LIFE PLANTED\nIN THE PASSING OF MY FATHER\nJAMES R. SERIANNI\n11/21/46 - 1/16/99\nLOVER OF WILDLIFE & NATURE\nLOVE DEBI",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/james-r-serianni.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02165,
+                    43.09761
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Cezar Sarkees",
+                "Plaque Inscription Text": "\"TRUE GRIT\"\nIN MEMORY OF\nCEZAR SARKEES\nBELOVED FATHER AND GRANDFATHER\nDEDICATED 2001",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/cezar-sarkees.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.023,
+                    43.09809
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Deanna Marie Reid-Ciuzenski",
+                "Plaque Inscription Text": "In Loving Memory of\nDeanna Marie Reid-Ciuzenski\nWife, Mother, Sister, Daughter,\nand Friend.\nWe Love You Forever",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/deanna-marie-reid-ciuzenski.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02331,
+                    43.09817
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Albert Meranto\nDr. Philip Meranto",
+                "Plaque Inscription Text": "IN MEMORY OF\nALBERT MERANTO\n1917 - 1990\nDR. PHILIP MERANTO\n1938 - 1985\nFROM YOUR WIFE AND MOTHER THERESA,\nSON ALBERT JR., AND GRANDCHILDREN",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/albert-meranto-dr-philip-meranto.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02256,
+                    43.09898
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Gildo and Franca Tiberi",
+                "Plaque Inscription Text": "In memory of\nGildo and Franca Tiberi\nLoving Parents and Grandparents\nLove,\nJoe, Jennifer, Ameliah,\nJoey and Felicity",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/gildo-and-franca-tiberi.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02226,
+                    43.09901
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Michael A. Bonaccorso",
+                "Plaque Inscription Text": "IN MEMORY OF\nMICHAEL A. BONACCORSO\nLOVE,\nTHE BONACCORSO FAMILY",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/michael-a-bonaccorso.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02313,
+                    43.09892
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Cole M. Adamczyk",
+                "Plaque Inscription Text": "OUR BELOVED\nCOLE M. ADAMCZYK\n1986 - 2013",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/cole-m-adamczyk.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02336,
+                    43.09923
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Thomas H. Kresman I",
+                "Plaque Inscription Text": "THOMAS H. KRESMAN I\nA SUCCESSFUL MAN AND\nA FATHER OF TWO SUCCESSFUL MEN",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/thomas-h-kresman-i.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02299,
+                    43.10351
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Thomas P. Adams",
+                "Plaque Inscription Text": "Thomas P. Adams\nIn loving memory...\nForever remembered,\nForever missed.",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/thomas-p-adams.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02297,
+                    43.10365
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Benjamin Eodice",
+                "Plaque Inscription Text": "IN LOVING MEMORY OF\nBENJAMIN EODICE\nYOUR SMILE, LOVE AND LAUGHTER\nWILL FOREVER REMAIN IN OUR HEARTS\nA TRUE HALL OF FAMER!",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/benjamin-eodice.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02296,
+                    43.10373
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Eva Zalocha",
+                "Plaque Inscription Text": "In Loving Memory of\nEVA ZALOCHA\nJanuary 2nd, 1948\nto\nJune 14th, 2017",
+                "Plaque Inscription Others": "A photo of Eva throwing a frisbee to her dog",
+                "Image": "data/images/memorials/eva-zalocha.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02297,
+                    43.10383
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Tammy Paonessa-Conway",
+                "Plaque Inscription Text": "TAMMY PAONESSA-CONWAY\nLIFE IS NOT MEASURED BY THE NUMBER OF\nBREATHS WE TAKE, BUT BY THE MOMENTS\nTHAT TAKE OUR BREATH AWAY",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/tammy-paonessa-conway.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02298,
+                    43.10389
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Mr. James Andrews",
+                "Plaque Inscription Text": "MR. JAMES ANDREWS\nYOU TAUGHT US THE WORLD,\nWE LOVE YOU THE WORLD.",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/mr-james-andrews.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02301,
+                    43.10397
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Mafalda Danielewicz",
+                "Plaque Inscription Text": "MAFALDA DANIELEWICZ\nMUFFY AND ED SHARED WIT AND\nJOY FOR 45 YEARS\nMUFFY I MISS YOU\nLOVE ALWAYS, STRETCH\n2013",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/mafalda-danielewicz.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02304,
+                    43.10403
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Patricia Myers",
+                "Plaque Inscription Text": "IN MEMORY OF\nPATRICIA\n\"PAT\"\nMYERS\nLOVING MOM, GRAMMA, SISTER\n1/31/1942 - 1/28/2015",
+                "Plaque Inscription Others": "A hummingbird",
+                "Image": "data/images/memorials/patricia-myers.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02309,
+                    43.10601
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Mary Piccirillo",
+                "Plaque Inscription Text": "In loving Memory of\nMary Piccirillo\nFeb 17, 1925 - Sept 2, 2024",
+                "Plaque Inscription Others": "A tree",
+                "Image": "data/images/memorials/mary-piccirillo.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02314,
+                    43.10425
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Robert Nelams III",
+                "Plaque Inscription Text": "Robert \"Greg\" Nelams III\n5/3/1998",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/robert-nelams-iii.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02319,
+                    43.10437
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Tabbitha Myers",
+                "Plaque Inscription Text": "IN MEMORY OF\nTABBITHA \"TABBY CAT\" MYERS\nLOVING DAUGHTER, SISTER, MOM\n11/28/1988 - 2/3/2017",
+                "Plaque Inscription Others": "A cat paw print",
+                "Image": "data/images/memorials/tabbitha-myers.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02332,
+                    43.10457
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Barron",
+                "Plaque Inscription Text": "BARRON\n1995 - 2011\nA Dog Represents All That Is Best In Man.\nThanks \"Barr\" for 16 Great Years.",
+                "Plaque Inscription Others": "Barron",
+                "Image": "data/images/memorials/barron.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02333,
+                    43.10468
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Norma & Chuck Zoda",
+                "Plaque Inscription Text": "IN LOVING MEMORY\nNORMA & CHUCK ZODA\nDEDICATED 2013",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/norma-and-chuck-zoda.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02339,
+                    43.10494
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Helen and Ed Nicholson",
+                "Plaque Inscription Text": "A WALK IN THE PARK\nIN MEMORY OF\nHELEN AND ED NICHOLSON",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/helen-and-ed-nicholson.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02362,
+                    43.10512
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Kathy DeFazio",
+                "Plaque Inscription Text": "In Loving Memory\nKATHY DEFAZIO\n1949 - 2012\nAnd in the end, the love you take\nis equal to the love you make",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/kathy-defazio.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02348,
+                    43.10511
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Bonnie Hill",
+                "Plaque Inscription Text": "In Loving Memory of\nBonnie Hill\nForever remembered.\nForever missed.\nForever in our hearts.",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/bonnie-hill.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02338,
+                    43.10534
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Ben A. Santangelo",
+                "Plaque Inscription Text": "In Loving Memory of\nBen A. Santangelo\nYour life was a blessing,\nYour memory a treasure,\nYou're loved beyond words,\nAnd missed beyond measure.",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/ben-a-santangelo.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02333,
+                    43.10548
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Michelle McNamara Dardes",
+                "Plaque Inscription Text": "IN LOVING MEMORY OF\nMICHELLE MCNAMARA DARDES\n11/2/66 - 8/14/17",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/michelle-mcnamara-dardes.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02302,
+                    43.10611
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Candace Rieker Bouley",
+                "Plaque Inscription Text": "OUR SPECIAL ANGEL\nCANDACE RIEKER BOULEY\n8/25/1950 - 5/6/2019\nLOVE NEVER DIES.",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/candace-rieker-bouley.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02297,
+                    43.10622
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Mary Ellen McMahon",
+                "Plaque Inscription Text": "In Memory of\nMary Ellen McMahon\n9-15-1935 to 5-14-2017\nLoving Companion Chuck Colavecchia",
+                "Plaque Inscription Others": "Two angels",
+                "Image": "data/images/memorials/mary-ellen-mcmahon.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02294,
+                    43.10641
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Frank P. Scaletta",
+                "Plaque Inscription Text": "IN MEMORY OF\nFRANK P. SCALETTA\nYOU LOVED HYDE PARK\nYOUR LOVING FAMILY",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/frank-p-scaletta-semarie-scaletta.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02294,
+                    43.10646
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Semarie Scaletta",
+                "Plaque Inscription Text": "IN LOVING MEMORY\nSEMARIE SCALETTA, \"MEMA\"\nYOUR PRESENCE WE MISS.\nYOUR MEMORY WE TREASURE.\nLOVING YOU ALWAYS.\nFORGETTING YOU NEVER.",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/frank-p-scaletta-semarie-scaletta.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02254,
+                    43.107
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Terrorism Fighters",
+                "Plaque Inscription Text": "This Garden is Dedicated\nto ALL\nPast, Present and Future\nMen and Women\nwho Lost Their Lives\nin the Fight Against Terrorism",
+                "Plaque Inscription Others": "Note: this memorial is a garden.",
+                "Image": "data/images/memorials/terrorism-fighters.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02254,
+                    43.1066
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "John Angelo",
+                "Plaque Inscription Text": "IN LOVING MEMORY\nOF\nJOHN ANGELO",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/john-angelo.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02255,
+                    43.10651
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Raymond Angelo",
+                "Plaque Inscription Text": "IN MEMORY OF\nRAYMOND ANGELO",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/raymond-angelo.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0227,
+                    43.1063
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Estelle Zalocha",
+                "Plaque Inscription Text": "IN LOVING MEMORY OF\nESTELLE ZALOCHA\nA DEVOTED WIFE AND MOTHER\nWEEP NOT FOR ME I PLAY\nEVERY DAY IN PARADISE",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/estelle-zalocha.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02271,
+                    43.10618
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Arthur Gallo",
+                "Plaque Inscription Text": "IN LOVING MEMORY\nARTHUR \"ARTIE\" GALLO\nDEVOTED HUSBAND, FATHER,\nGRANDFATHER, GREAT GRANDFATHER & FRIEND\nALWAYS THERE TO LEND A HAND\n11/25/17 - 6/23/08",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/arthur-gallo.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02282,
+                    43.10609
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Rose K. (Falsetti) Gallo",
+                "Plaque Inscription Text": "ROSE K. (FALSETTI) GALLO\nIN LOVING MEMORY OF A\nDEVOTED WIFE, MOM, GRANDMA,\nGREAT-GRANDMA, AND FRIEND\nALWAYS GAVE HER HEART AND LOVE\nTO HER FAMILY AND FRIENDS\n10/29/22 - 11/30/10",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/rose-k-falsetti-gallo.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02302,
+                    43.10564
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Bloneva Bond",
+                "Plaque Inscription Text": "BLONEVA BOND\nBORN SEPTEMBER 11TH 1918",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/bloneva-bond.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02309,
+                    43.10548
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Debra Ann Willimott\nMichael George Willimott Jr.",
+                "Plaque Inscription Text": "IN LOVING MEMORY OF\nDEBRA ANN WILLIMOTT\nOCT. 30, 1974 - APRIL 25, 1982\nAND\nMICHAEL GEORGE WILLIMOTT JR.\nJAN. 31, 1978 - JULY 22, 2016\nFOREVER IN OUR HEARTS TILL WE MEET AGAIN",
+                "Plaque Inscription Others": "A butterfly and an eagle",
+                "Image": "data/images/memorials/debra-ann-willimott-michael-george-willimott-jr.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02311,
+                    43.10495
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "George J. Marra",
+                "Plaque Inscription Text": "In Memory of\nGeorge J. Marra\nJan. 12, 1944 - May 10, 2014\nLoving Father and Friend\n\nYour presence\nwe miss.\nYour memory\nwe treasure.\nLoving you\nalways;\nForgetting you\nnever.",
+                "Plaque Inscription Others": "A photo of George",
+                "Image": "data/images/memorials/george-j-marra.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02306,
+                    43.10481
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Megan Schreiber Kington",
+                "Plaque Inscription Text": "MEGAN SCHREIBER\nKINGTON\nLIVING IN OUR HEARTS\nFOREVER\n♥ SEPTEMBER 7, 1983 -\nJANUARY 21, 2020",
+                "Plaque Inscription Others": "A heart",
+                "Image": "data/images/memorials/megan-schreiber-kington.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02296,
+                    43.10469
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Wayne D. Courts",
+                "Plaque Inscription Text": "IN MEMORY OF\nWAYNE D. COURTS\n2004",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/wayne-d-courts.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02291,
+                    43.10445
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Pam Hook",
+                "Plaque Inscription Text": "IN MEMORY OF\nPAM HOOK\nLOVING WIFE, MOM & GRANDMA\n5/31/1955 - 5/6/2016",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/pam-hook.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02524,
+                    43.09911
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Nicholas Munsen",
+                "Plaque Inscription Text": "IN LOVING MEMORY\nOUR\nNICHOLAS \"NICK\" MUNSEN\n9/30/92 - 6/26/16\nWITH ALL OUR LOVE\nLA FAMIGLIA",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/nicholas-munsen.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02579,
+                    43.09913
+                ]
+            },
+            "properties": {
+                "type": "Memorial",
+                "In Memoriam Of": "Beverly Laughlan",
+                "Plaque Inscription Text": "In Loving Memory Of\nBeverly Laughlan\n1933 - 2019",
+                "Plaque Inscription Others": "",
+                "Image": "data/images/memorials/beverly-laughlan.jpg"
+            }
+        }
+    ]
+}
