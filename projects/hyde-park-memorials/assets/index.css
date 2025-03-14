@@ -52,10 +52,6 @@ a:active, a:hover, a:visited {
     font-weight: bold;
 }
 
-.plaque-inscription {
-    font-style: italic;
-}
-
 .plaque-image {
     border-radius: 12px;
     height: inherit;
