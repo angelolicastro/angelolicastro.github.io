@@ -111,11 +111,6 @@ tbody tr:hover {
     color: #2b361b;
 }
 
-tbody tr:hover a {
-    color: #2b361b;
-    text-decoration: underline;
-}
-
 td {
     padding: 10px;
     text-align: center;
