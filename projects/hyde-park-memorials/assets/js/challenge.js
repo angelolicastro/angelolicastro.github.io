@@ -71,7 +71,7 @@ function hookChallengeAnswerInput(challengeAnswer) {
     if (challengeAttempt === challengeAnswer) {
       renderEmailAddress();
     } else {
-      renderChallengeNotice("Try again");
+      renderChallengeNotice("Please try again");
     }
   };
 }
@@ -107,7 +107,8 @@ function initialize() {
 
   setTimeout(() => {
     initialize(); // present a new challenge after some time
-    renderChallengeNotice("Please solve the new challenge");
+    // re-render the notice in case try again was presented
+    renderChallengeNotice("Please solve the challenge");
   }, challengeTimeoutSeconds * 1000);
 }
 
