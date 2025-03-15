@@ -25,6 +25,7 @@ L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
 
 let geojsonDataUrl = "data/geojson/dedications_memorials.geojson";
 
+// TODO: adjust icons so they don't render off-center locations
 let memorialIcon = L.divIcon({
   className: "memorial-icon",
   html: `<div class="icon-content">
@@ -60,9 +61,10 @@ let gardenIcon = L.divIcon({
   html: `<div class="icon-content">
            <span class="marker-text">☆</span>
          </div>`,
-  iconSize: [40, 40],
-  iconAnchor: [20, 40],
-  popupAnchor: [0, -40],
+  // this icon stacks oddly with the others if it's 40x40
+  iconSize: [30, 30],
+  iconAnchor: [15, 30],
+  popupAnchor: [0, -30],
 });
 
 function onEachFeature(feature, layer) {

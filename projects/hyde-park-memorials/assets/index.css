@@ -22,6 +22,11 @@ a:active, a:hover, a:visited {
     width: 100%;
 }
 
+#map-legend {
+    font-size: 75%;
+    text-align: right;
+}
+
 .icon-content {
     display: flex;
     align-items: center;
@@ -31,7 +36,7 @@ a:active, a:hover, a:visited {
 }
 
 .memorial-icon, .dedication-icon, .bench-icon, .garden-icon {
-    color: #2b361b;
+    color: #278a34;
 }
 
 .marker-text {
