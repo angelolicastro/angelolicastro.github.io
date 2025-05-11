@@ -1,5 +1,7 @@
 const redirects = Object.freeze({
   "/h/": "/projects/hyde-park-memorials/",
+  "/r/": "/resume.pdf",
+  "/resume/": "/resume.pdf",
 });
 
 function redirectToPage(redirectPageUrl) {
