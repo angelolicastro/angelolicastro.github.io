@@ -52,15 +52,33 @@ input::placeholder {
     margin: 3px;
 }
 
-button {
+#buttons {
+    padding-bottom: 5px;
+}
+
+#buttons > a {
     border: 1px solid;
     border-radius: 6px;
     padding: 10px;
     margin: 3px;
-    background-color: #b4bfa4;
 }
 
-button.secondary {
+a.primary, a:link.primary {
+    background-color: #b4bfa4;
+    color: #2b361b;
+}
+
+a:active.primary, a:hover.primary {
+    background-color: #a6c478;
+    color: #2b361b;
+}
+
+a.secondary, a:link.secondary {
     background-color: #2b361b;
     color: #b4bfa4;
+}
+
+a:active.secondary, a:hover.secondary {
+    background-color: #b4bfa4;
+    color: #2b361b;
 }
