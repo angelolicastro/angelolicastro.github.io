@@ -1,0 +1,66 @@
+body {
+    background-color: #2b361b;
+    color: #b4bfa4;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#tagline {
+    font-style: italic;
+}
+
+img#profile {
+    width: 15rem;
+    height: auto;
+    border-radius: 6px;
+}
+
+a, a:link {
+    color: #c8f28a;
+    text-decoration: none;
+}
+
+a:active, a:hover, a:visited {
+    color: #a6c478;
+}
+
+input {
+    background-color: #b4bfa4;
+    border: none;
+    border-radius: 2px;
+    color: #2b361b;
+    display: inline-block;
+    height: 25px;
+    padding: 5px;
+}
+
+input::placeholder {
+    color: #2b361b;
+}
+
+#challenge-answer {
+    width: 25px;
+}
+
+#email-address {
+    border: 1px solid;
+    border-radius: 6px;
+    display: none;
+    padding: 10px;
+    margin: 3px;
+}
+
+button {
+    border: 1px solid;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 3px;
+    background-color: #b4bfa4;
+}
+
+button.secondary {
+    background-color: #2b361b;
+    color: #b4bfa4;
+}

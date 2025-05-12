@@ -3,7 +3,7 @@
  * See LICENSE
  */
 const randomNumberMin = 0;
-const randomNumberMax = 10;
+const randomNumberMax = 5;
 const availableOperators = ["+", "×"];
 
 const challengeQuestionIdSpan = "challenge-question";
@@ -86,6 +86,7 @@ function renderEmailAddress(
 
 function renderChallengeNotice(text, challengeNoticeId = challengeNoticeSpan) {
   let challengeNoticeIdElement = document.getElementById(challengeNoticeId);
+  if (!challengeNoticeIdElement) return;
   challengeNoticeIdElement.innerHTML = text;
 }
 
