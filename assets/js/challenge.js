@@ -12,6 +12,7 @@ const challengeNoticeSpan = "challenge-notice";
 const emailAddressIdSpan = "email-address";
 
 const challengeTimeoutSeconds = 15;
+const challengeTryAgainNoticeEnabled = false;
 
 const emailAddressIdent = "angelo";
 const emailAddressHost = "angelolicastro";
@@ -70,7 +71,7 @@ function hookChallengeAnswerInput(challengeAnswer) {
     let challengeAttempt = parseInt(challengeAnswerIdElement.value);
     if (challengeAttempt === challengeAnswer) {
       renderEmailAddress();
-    } else {
+    } else if (challengeTryAgainNoticeEnabled) {
       renderChallengeNotice("Please try again");
     }
   };
