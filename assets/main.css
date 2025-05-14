@@ -54,6 +54,7 @@ input::placeholder {
 
 #buttons {
     padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 #buttons > a {
@@ -81,4 +82,9 @@ a.secondary, a:link.secondary {
 a:active.secondary, a:hover.secondary {
     background-color: #b4bfa4;
     color: #2b361b;
+}
+
+#footer {
+    font-size: 75%;
+    text-align: center;
 }
