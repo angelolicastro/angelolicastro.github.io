@@ -66,8 +66,8 @@ a:active, a:hover, a:visited {
 
 .plaque-image-table {
     border-radius: 12px;
-    max-height: 100%;
-    max-width: 100%;
+    max-height: 25vh;
+    max-width: 25vw;
     height: inherit;
     width: inherit;
 }
