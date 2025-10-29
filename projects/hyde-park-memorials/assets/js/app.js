@@ -142,7 +142,7 @@ function renderFeatureTable(data, tableId, featureType) {
       // hyperlink images
       if (value.includes(".jpg")) {
         let imgUrl = `data/images/${featureType}/${value}`;
-        table += `<td><a href="${imgUrl}"><img class="plaque-image-table" src="${imgUrl}" loading="lazy"></a></td>`;
+        table += `<td><a href="${imgUrl}" target="_blank" rel="noopener noreferrer"><img class="plaque-image-table" src="${imgUrl}" loading="lazy"></a></td>`;
       } else {
         table += `<td>${value}</td>`;
       }
