@@ -1,5 +1,6 @@
 const redirects = Object.freeze({
   "/h/": "/projects/hyde-park-memorials/",
+  "/monitorama/": "https://www.youtube.com/watch?v=idqe66cqpRc",
   "/r/": "/resume.pdf",
   "/resume/": "/resume.pdf",
 });
