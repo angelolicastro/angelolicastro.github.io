@@ -109,8 +109,7 @@ function initialize() {
 
   setTimeout(() => {
     initialize(); // present a new challenge after some time
-    // re-render the notice in case try again was presented
-    renderChallengeNotice("Please solve the challenge");
+    if (challengeTryAgainNoticeEnabled) renderChallengeNotice("Please solve the challenge");
   }, challengeTimeoutSeconds * 1000);
 }
 
