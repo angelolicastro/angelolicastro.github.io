@@ -14,10 +14,10 @@ const emailAddressIdSpan = "email-address";
 const challengeTimeoutSeconds = 15;
 const challengeTryAgainNoticeEnabled = false;
 
-const emailAddressIdent = "angelo";
-const emailAddressHost = "angelolicastro";
-const emailAddressDomain = "com";
-const emailAddress = `${emailAddressIdent}@${emailAddressHost}.${emailAddressDomain}`;
+const emailAddressHostname = window.location.hostname;
+const emailAddressIdent = emailAddressHostname.replace("licastro.com", "");
+const emailAddress = `${emailAddressIdent}@${emailAddressHostname}`;
+
 const emailAddressHTML = `
   <a href="mailto:${emailAddress}">
     ${emailAddress}
