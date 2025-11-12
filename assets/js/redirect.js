@@ -1,4 +1,5 @@
 const redirects = Object.freeze({
+  "/404.html": "/?notice=404",
   "/h/": "/projects/hyde-park-memorials/",
   "/monitorama/": "https://www.youtube.com/watch?v=idqe66cqpRc",
   "/r/": "/resume.pdf",

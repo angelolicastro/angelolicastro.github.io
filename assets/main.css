@@ -7,6 +7,20 @@ body {
     font-style: normal;
 }
 
+#status {
+    background-color: #b4bfa4;
+    border-bottom: 1px solid;
+    border-radius: 6px;
+    color: #2b361b;
+    display: none;
+    padding: 10px;
+}
+
+#status > a {
+    color: #2b361b;
+    text-decoration: underline;
+}
+
 #tagline {
     font-style: italic;
 }
