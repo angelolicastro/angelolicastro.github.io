@@ -13,7 +13,7 @@ function redirectToPage(redirectPageUrl) {
 function redirect() {
   let currentPage = window.location.pathname;
   let redirectPage = redirects[currentPage];
-  redirectToPage(redirectPage);
+  if (redirectPage) redirectToPage(redirectPage);
 }
 
 redirect();
